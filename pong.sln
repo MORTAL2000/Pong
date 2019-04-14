@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pong", "pong\pong.vcxproj", "{78554C0F-14F6-4B2F-9006-004011C3A93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78554C0F-14F6-4B2F-9006-004011C3A93E}.Debug|x64.ActiveCfg = Debug|x64
+		{78554C0F-14F6-4B2F-9006-004011C3A93E}.Debug|x64.Build.0 = Debug|x64
+		{78554C0F-14F6-4B2F-9006-004011C3A93E}.Release|x64.ActiveCfg = Release|x64
+		{78554C0F-14F6-4B2F-9006-004011C3A93E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61747D6F-00E7-4511-8F2B-46E24C9B9A9C}
+	EndGlobalSection
+EndGlobal

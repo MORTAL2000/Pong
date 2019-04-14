@@ -1,0 +1,90 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United Kingdom) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENG)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_UK
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value addd first to ensure application icon
+// remains consistent on all systems.
+__IDI_ICON1__               ICON                    "../resources/pong.ico"
+
+#endif    // English (United Kingdom) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// FILEDATA
+//
+
+// BOARD_BACKGROUND_W4_SMALL 			FILEDATA	"bg_w4_small.png" (this is an example from Oska.rc)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+__PONG_RIM__            FILEDATA				"../resources/pong_rim.png"
+__NUMBERS_TEXTURE__		FILEDATA				"../resources/numbers_texture.png"
+
+__HIT_WALL_SOUND__		FILEDATA				"../resources/pong_hit_wall.wav"
+__HIT_PADDLE_SOUND__	FILEDATA				"../resources/pong_hit_paddle.wav"
+__MISS_BALL_SOUND__		FILEDATA				"../resources/pong_miss_ball.wav"
+
+__NUMBERS_FONT__		FILEDATA				"../resources/PongNumbersMono-Regular.ttf"
